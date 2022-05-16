@@ -34,11 +34,6 @@ hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.toml"
-hash = "69b74bbfe190074a1aca83d0f2e780f263810a20f05d72e1db35907785c02835"
-metafile = true
-
-[[files]]
 file = "mods/qsl.toml"
 hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
 metafile = true
