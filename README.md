@@ -11,9 +11,10 @@ This is a quilt minecraft modpack focused on delivering the quickest vanilla exp
 - [Spark](https://modrinth.com/mod/spark)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 ## Versioning system:
-Major: Minecraft Release
-Minor: Modlist update
-Patch: Mod update
+- Major: Minecraft Release
+- Minor: Modlist update
+- Patch: Mod update
+(this will be used as soon as the modpack becomes available on modrinth.)
 ## Installation:
 To install this modpack you'll need to use the [Packwiz Installer](https://github.com/packwiz/packwiz-installer-bootstrap/releases).
 1) Set up a quilt server.
@@ -26,7 +27,7 @@ _This can be run before server startup to automatically update the modpack._
 Tools used:
  - [modrinth](https://docs.modrinth.com/)
  - [packwiz](https://packwiz.infra.link/)
- - [quilt](https://quiltmc.org/).
+ - [quilt](https://quiltmc.org/)
 
 Also recommended:
 - [geyser-fabric](https://github.com/GeyserMC/Geyser-Fabric) -> A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
