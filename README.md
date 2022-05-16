@@ -25,7 +25,7 @@ _This can be run before server startup to automatically update the modpack._
 ### Extra information...
 Tools used:
  - [modrinth](https://docs.modrinth.com/)
- - [packwiz](ttps://packwiz.infra.link/)
+ - [packwiz](https://packwiz.infra.link/)
  - [quilt](https://quiltmc.org/).
 
 Also recommended:
