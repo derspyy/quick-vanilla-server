@@ -14,6 +14,7 @@ This is a quilt minecraft modpack focused on delivering the quickest vanilla exp
 - Major: Minecraft Release
 - Minor: Modlist update
 - Patch: Mod update
+
 (this will be used as soon as the modpack becomes available on modrinth.)
 ## Installation:
 To install this modpack you'll need to use the [Packwiz Installer](https://github.com/packwiz/packwiz-installer-bootstrap/releases).
