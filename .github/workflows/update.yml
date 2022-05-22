@@ -1,11 +1,17 @@
-name: Update
+name: 'Update Packwiz Mods'
 on:
-  workflow_dispatch:
-
+    workflow_dispatch:
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Update Packwiz Mods
-        uses: derspyy/packwiz-update-action@v1.0
+    update:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Setup Go environment
+              uses: actions/setup-go@v3.1.0
+              with:
+                go-version: '1.18'
+            - name: Setup Packwiz
+              run: go install github.com/packwiz/packwiz@latest
+            - name: Update
+              run: yes | packwiz update --all
+            - uses: stefanzweifel/git-auto-commit-action@v4
