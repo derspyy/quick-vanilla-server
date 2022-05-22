@@ -1,9 +1,0 @@
-name: 'Update Packwiz Mods'
-on:
-    workflow_dispatch:
-runs:
-    - name: Update Packwiz Mods
-  # You may pin to the exact commit or the version.
-  # uses: derspyy/packwiz-update-action@d37d35c7b0d2b53e3dd70eb710225830ddb9e807
-      uses: derspyy/packwiz-update-action@v1.0
-
