@@ -1,6 +1,6 @@
 name = "Quick Vanilla Server"
 author = "piuvas"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
