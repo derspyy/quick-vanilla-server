@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "dfae9b7119c33a85a50ebe3ddb2aa13da7908217b0069530788a9f35a9c8dd33"
-
-[[files]]
-file = "README.md"
-hash = "67edb9ade091e411fd8dcb608de474c097d2a2e0868065b349812e747eacc284"
-
-[[files]]
 file = "mods/ferrite-core.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
