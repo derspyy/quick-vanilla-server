@@ -1,6 +1,8 @@
 name: 'Update Packwiz Mods'
 on:
     workflow_dispatch:
+    schedule:
+      - cron: '0 0 * * *'  # every day at midnight
 jobs:
     update:
         runs-on: ubuntu-latest
