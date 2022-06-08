@@ -1,2 +1,11 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.toml"
+hash = "03631550219841e93a60998c0008733713d7022f4d8b812c5448675a7a72deb8"
+metafile = true
