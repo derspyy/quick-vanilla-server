@@ -6,11 +6,26 @@ hash = "0421f45eec7781bada15ab8e0aa9ef102f4252a7aab4bfa63d512e0b2ae23a15"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.toml"
-hash = "03631550219841e93a60998c0008733713d7022f4d8b812c5448675a7a72deb8"
+hash = "f893289ad94b3601c5523b0b8d1e9c2da54ab232063b4e0b9bfd0067240ccc7a"
 metafile = true
