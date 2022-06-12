@@ -21,7 +21,7 @@ To install this modpack you'll need to use the [Packwiz Installer](https://githu
 1) Set up a quilt server.
 2) Download packwiz-installer-bootstrap.jar to your server's folder.
 3) Run the command: 
-`java -jar packwiz-installer-bootstrap.jar -g -s server https://derspyy.github.io/quick-vanilla-server/pack.toml`
+`java -jar packwiz-installer-bootstrap.jar -g https://derspyy.github.io/quick-vanilla-server/pack.toml`
 
 _This can be run before server startup to automatically update the modpack._
 ### Extra information...
