@@ -6,8 +6,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
-              with:
-                ref: ${{ github.head_ref }}
             - name: Setup Go environment
               uses: actions/setup-go@v3.1.0
               with:
