@@ -21,6 +21,11 @@ hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
+file = "mods/qsl.toml"
+hash = "00657ab45a5f463f1469d31a6b8da8142711423a0ce4e5f820d5adb32ce67d42"
+metafile = true
+
+[[files]]
 file = "mods/spark.toml"
 hash = "8b945456a04b8704c62565c9370b59205a0fd10478b7d6457f6b6e2733d80545"
 metafile = true
