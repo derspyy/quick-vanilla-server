@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "e73c564eb9a715bfa7bbf7b93769ec8acfec3ca079b289530c88a381bc253b47"
+hash = "1f474a57a5696d273b08cefdf9c13070e05296ea9e291eef4a65bf236ccfd237"
 metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "f3788c11d6e2da088378f7b2fa47dbf01da87bc13a34bf0dbafac24fbdbc6acb"
+hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
 
 [[files]]

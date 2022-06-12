@@ -1,12 +1,12 @@
 name = "Quick Vanilla Server"
 author = "piuvas"
 version = "1.0.1"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "82a4c78a8458299bdd595a9d439ab86ac0b519cb1adcb8d67591c39dbc9bdfa9"
+hash = "dc8208e1b25ba65774bff69c8bc835f134c661ffb6ba0fc06a0e133277167289"
 
 [versions]
 minecraft = "1.18.2"
