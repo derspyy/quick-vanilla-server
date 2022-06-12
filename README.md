@@ -3,11 +3,11 @@ This is a quilt minecraft modpack focused on delivering the quickest vanilla exp
 
 ![Version](https://img.shields.io/github/v/release/derspyy/quick-vanilla-server?display_name=tag&sort=semver)
 ## Current mods:
+- [C2ME](https://modrinth.com/mod/c2me-fabric)
 - [Ferritecore](https://modrinth.com/mod/ferrite-core)
-- [GolfIV](https://modrinth.com/mod/golfiv)
 - [Krypton](https://modrinth.com/mod/krypton)
 - [Lithium](https://modrinth.com/mod/lithium)
-- [Phosphor](https://modrinth.com/mod/phosphor)
+- [Phosphor](https://modrinth.com/mod/phosphor) (not yet updated)
 - [Spark](https://modrinth.com/mod/spark)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 ## Versioning system:
