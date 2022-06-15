@@ -7,7 +7,7 @@ This is a quilt minecraft modpack focused on delivering the quickest vanilla exp
 - [Ferritecore](https://modrinth.com/mod/ferrite-core)
 - [Krypton](https://modrinth.com/mod/krypton)
 - [Lithium](https://modrinth.com/mod/lithium)
-- [Phosphor](https://modrinth.com/mod/phosphor) (not yet updated)
+- [Phosphor](https://modrinth.com/mod/phosphor)
 - [Spark](https://modrinth.com/mod/spark)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 ## Versioning system:
