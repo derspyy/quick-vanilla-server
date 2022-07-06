@@ -6,6 +6,11 @@ hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
 
 [[files]]
+file = "mods/chunky.toml"
+hash = "c655002fad2689f9f413134334319d1b03e2499c5b81cb9a28d9e37b7c02d706"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
