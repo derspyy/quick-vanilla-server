@@ -4,6 +4,7 @@ This is a quilt minecraft modpack focused on delivering the quickest vanilla exp
 ![Version](https://img.shields.io/github/v/release/derspyy/quick-vanilla-server?display_name=tag&sort=semver)
 ## Current mods:
 - [C2ME](https://modrinth.com/mod/c2me-fabric)
+- [Chunky](https://modrinth.com/mod/chunky)
 - [Ferritecore](https://modrinth.com/mod/ferrite-core)
 - [I'm here, Get Moving](https://modrinth.com/mod/ihgm)
 - [Krypton](https://modrinth.com/mod/krypton)
